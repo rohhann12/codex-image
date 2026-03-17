@@ -53,4 +53,4 @@ tail -f ~/Library/Logs/PastePath.log
 - Best supported: Terminal and iTerm2
 - Experimental: VS Code-hosted terminal / Codex TUI detection
 - The regular Codex GUI chat input is not the main target
-# codex-image
+
